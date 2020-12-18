@@ -1,5 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Starhopper's Site
 
+This site is going to show you a weekly view of the images I am able to pull from the Satelites above us. The goal of this project is to keep track of what is going on with the weather. You ask "How might I be getting the images from Satelites?" Yeah, so this is simpler than you might images. But glad to provide a few links on how this can be done.
+
+[SDR - What is it](https://www.youtube.com/watch?v=IaKEYEyrRgk) More about this in time. 
 You can use the [editor on GitHub](https://github.com/jordanistan/starhopper/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
